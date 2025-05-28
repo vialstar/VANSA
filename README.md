@@ -1,4 +1,4 @@
-# Code for VANSA
+# Code for VansKG
 
 # Data
 
